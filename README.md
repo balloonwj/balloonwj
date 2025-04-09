@@ -32,7 +32,7 @@
 
 #### 4. Golang开发
 - [高效Go并发编程](https://cppguide.cn/pages/effectiveconcurrencyingo00/)
-- [Go性能调优][https://cppguide.cn/pages/handsonhighperformancewithgo00/]
+- [Go性能调优](https://cppguide.cn/pages/handsonhighperformancewithgo00/)
 - [Go项目架构设计](https://cppguide.cn/pages/handsonsoftwarearchitecturewithgo00/)
 
 #### 5. Rust编程
