@@ -34,6 +34,7 @@
 - [高效Go并发编程](https://cppguide.cn/pages/effectiveconcurrencyingo00/)
 - [Go性能调优](https://cppguide.cn/pages/handsonhighperformancewithgo00/)
 - [Go项目架构设计](https://cppguide.cn/pages/handsonsoftwarearchitecturewithgo00/)
+- [用Go从零开发一个数据库](https://cppguide.cn/pages/writingmyowndatabasefromscratchingo/)
 
 #### 5. Rust编程
 - [Rust编程指南](https://cppguide.cn/pages/programmingRust/)
