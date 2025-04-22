@@ -29,12 +29,16 @@
 - [从零用C语言写一个Redis](https://cppguide.cn/pages/writemyredisfromscratch01/)
 - [用C++17从零开发一个调试器](https://mp.weixin.qq.com/s/eXPm7xtp2wJ91HLQKOr5_g)
 - [使用 C++20 从零构建一个完整的低延迟交易系统](https://mp.weixin.qq.com/s/9QXKRVDiNPHBs2XFzP_Dnw)
+- [从零实现一个大型的C语言编译器](https://mp.weixin.qq.com/s/u6qg5aAN2khLptdWrIl2IA)
+- 
 
 #### 4. Golang开发
 - [高效Go并发编程](https://cppguide.cn/pages/effectiveconcurrencyingo00/)
 - [Go性能调优](https://cppguide.cn/pages/handsonhighperformancewithgo00/)
 - [Go项目架构设计](https://cppguide.cn/pages/handsonsoftwarearchitecturewithgo00/)
 - [用Go从零开发一个数据库](https://cppguide.cn/pages/writingmyowndatabasefromscratchingo/)
+- [使用Golang从零开发一个mini编译器](https://mp.weixin.qq.com/s/u6qg5aAN2khLptdWrIl2IA)
+- [用Golang从零实现一个解释器](https://mp.weixin.qq.com/s/u6qg5aAN2khLptdWrIl2IA)
 
 #### 5. Rust编程
 - [Rust编程指南](https://cppguide.cn/pages/programmingRust/)
