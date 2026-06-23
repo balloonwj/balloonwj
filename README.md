@@ -60,6 +60,7 @@
 - [C/C++网络编程实战训练营 一期](https://mp.weixin.qq.com/s/3Rc2uinOr74Q-u954VSNBQ)
 - [C/C++网络编程实战训练营 二期](https://mp.weixin.qq.com/s/s9OwZ60aIMPKk2GLBa7Dwg)
 - [C/C++项目实战训练营](https://mp.weixin.qq.com/s/ShJsrDZtNsGkO8eJqzc4bg)
+- [用AI从零开发大型远程控制套件](https://mp.weixin.qq.com/s/4_7YD-fJEH0tar6W99TlqQ)
 
 ### 职业解惑
 
